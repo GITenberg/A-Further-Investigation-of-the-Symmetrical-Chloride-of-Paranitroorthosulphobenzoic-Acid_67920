@@ -1,5 +1,8 @@
 _repo: A-Further-Investigation-of-the-Symmetrical-Chloride-of-Paranitroorthosulphobenzoic-Acid_67920
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67920-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, William Edwards
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9563'
     url: http://www.gutenberg.org/2009/agents/9563
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67920#A-Further-Investigation-of-the-Symmetrical-Chloride-of-Paranitroorthosulphobenzoic-Acid
 gutenberg_issued: '2022-04-25'
 identifiers:
   gutenberg: '67920'
